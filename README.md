@@ -1,6 +1,6 @@
 # CENTRUM UNIVERSI // FIELD TEST E-27
 
-Shooter en primera persona. Versión **0.5.5 (beta)**.
+Shooter en primera persona. Versión **0.5.6.1 (beta)**.
 
 ## Descargar
 
